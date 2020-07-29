@@ -32,25 +32,25 @@ Thank you for coming to my TED talk! If you want to read more about pulsars and 
 USEFUL LINKS:
 
 Primers:
-https://en.wikipedia.org/wiki/Pulsar
-https://en.wikipedia.org/wiki/Neutron_star
-https://en.wikipedia.org/wiki/Interstellar_medium
-https://en.wikipedia.org/wiki/Diffraction
-http://pulsarsearchcollaboratory.com/online-workshop/
+* https://en.wikipedia.org/wiki/Pulsar
+* https://en.wikipedia.org/wiki/Neutron_star
+* https://en.wikipedia.org/wiki/Interstellar_medium
+* https://en.wikipedia.org/wiki/Diffraction
+* http://pulsarsearchcollaboratory.com/online-workshop/
 
 Important Info:
-http://www.apc.univ-paris7.fr/Downloads/astrog/djannati/Flower/HandbookOfPulsarAstronomy_Lorimer-Kramer.pdf
-https://iopscience.iop.org/article/10.1086/306358/fulltext/38012.text.html
-http://articles.adsabs.harvard.edu/pdf/1986ApJ...311..183C
-https://arxiv.org/pdf/astro-ph/0207156.pdf
+* http://www.apc.univ-paris7.fr/Downloads/astrog/djannati/Flower/HandbookOfPulsarAstronomy_Lorimer-Kramer.pdf
+* https://iopscience.iop.org/article/10.1086/306358/fulltext/38012.text.html
+* http://articles.adsabs.harvard.edu/pdf/1986ApJ...311..183C
+* https://arxiv.org/pdf/astro-ph/0207156.pdf
 
 Deeper Dive:
-https://iopscience.iop.org/article/10.1086/319133/fulltext/005821.text.html
-https://arxiv.org/pdf/1601.04490.pdf
-https://arxiv.org/pdf/1302.1897.pdf
-https://www.cita.utoronto.ca/~fkirsten/lib/exe/fetch.php?media=start:workshop:j-p-macquart-bonnscintorthodoxytalk.pdf
-https://academic.oup.com/mnras/article/354/1/43/963584
-https://iopscience.iop.org/article/10.1086/307181/pdf
+* https://iopscience.iop.org/article/10.1086/319133/fulltext/005821.text.html
+* https://arxiv.org/pdf/1601.04490.pdf
+* https://arxiv.org/pdf/1302.1897.pdf
+* https://www.cita.utoronto.ca/~fkirsten/lib/exe/fetch.php?media=start:workshop:j-p-macquart-bonnscintorthodoxytalk.pdf
+* https://academic.oup.com/mnras/article/354/1/43/963584
+* https://iopscience.iop.org/article/10.1086/307181/pdf
 
 
 

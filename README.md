@@ -3,8 +3,8 @@ READ ME FIRST!!!!!
 
 WARNING: If this is your first time playing with a python program, it is imperative that you start by getting a little background knowledge first! I tried to expound on most of the python concepts that I could, but computer science is it's own subject well worth studying. I've provided two links below that should be a good initial primer to python programming. Take your time, and good luck!
 
-https://www.codecademy.com/
-https://docs.python.org/3/tutorial/index.html
+* https://www.codecademy.com/
+* https://docs.python.org/3/tutorial/index.html
 
 My pulsar data processing code for anyone to use and improve upon!
 

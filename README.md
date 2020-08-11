@@ -1,4 +1,11 @@
 # malcolm
+READ ME FIRST!!!!!
+
+WARNING: If this is your first time playing with a python program, it is imperative that you start by getting a little background knowledge first! I tried to expound on most of the python concepts that I could, but computer science is it's own subject well worth studying. I've provided two links below that should be a good initial primer to python programming. Take your time, and good luck!
+
+https://www.codecademy.com/
+https://docs.python.org/3/tutorial/index.html
+
 My pulsar data processing code for anyone to use and improve upon!
 
 This code exists in two parts. The first is the actual code that I used while doing research, which was developed over many months of trial and error. The second is a set of jupyter notebooks and example files to guide a new user through the functionality of my code. 
@@ -12,7 +19,7 @@ There are also a few places where I have encouraged you to try editing the noteb
 NOTES ON RUNNING SCRIPTS AND NOTEBOOKS:
 I have not included functionality for running either the scripts or notebooks multiple times. This is because we may want to make changes in the initial data processing steps, but may also want to be able to compare results later. The options were to either delete the old files, or check if they exist and save the new ones with a new naming scheme. I chose to do neither, as the first prevents us from making valuable comparisons, and the second will bury you in files. If you want to run these twice for one observation, I recommend moving the initial results to a new directory located above the code!
 
-In order to start a notebook over from scratch, delete any files it has created and simply start from the beginning! :)
+Start by copying my Notebooks/ directory to a new directory somewhere in your home folder. This will keep you from overwriting other people's work with this notebook. If there are files in IntermediateData/ or Plots/, delete them. You should now be able to run the notebook! (You can do this by typing jupyter notebook in the terminal, and opening the notebook in the file explorer. You then need to run the cells ONE AT A TIME! Trying to run everything at once will result in a crash!)
 
 CRASH COURSE ON SCINTILLATION:
 
